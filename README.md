@@ -92,10 +92,6 @@ A **Software Engineer** with **5+ years** of experience, focused on **backend de
   <img src="https://streak-stats.demolab.com?user=PigTinyLabs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PigTinyLabs&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
 ---
 
 ## 📫 Contact
