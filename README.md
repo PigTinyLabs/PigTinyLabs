@@ -25,7 +25,7 @@ A **Software Engineer** with **5+ years** of experience, focused on **backend de
 - 🟦 **TypeScript / JavaScript**: React frontends and Electron desktop apps
 - 💎 **Ruby**: web apps with Ruby on Rails
 - 🗃️ **SQL**: schema design and query optimization on PostgreSQL & MySQL
-- ⚡ **C++**: when I need to get closer to the metal
+- ⚡ **C++ / Objective-C**: low-level system programming & native runtime hooking
 
 ---
 
@@ -69,13 +69,13 @@ A **Software Engineer** with **5+ years** of experience, focused on **backend de
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🧹 [**Pig Cleaner**](https://github.com/PigTinyLabs/Pig-cleaner) | Open-source, cross-platform system cleaning & optimization tool for macOS and Windows | `Electron` `React` `TypeScript` |
+| 🐷 [**PigPort**](https://github.com/PigTinyLabs/PigPort) | Open-source mobile game launcher to play iOS (IPA) and Android (APK / XAPK) games on Mac & Windows with keyboard & mouse | `Electron` `TypeScript` `Objective-C` |
 | 📦 **Scheduled Order & Logistics Microservices** | Worker services for CSV/Excel processing, custom logging and scheduled tasks | `.NET Core` `C#` `Spring Boot` |
 | 🔌 **Embedded & Automation Scripting** | Automation and data-processing scripts for ESP32 and Raspberry Pi | `Python` `MicroPython` |
 
 <p align="center">
-  <a href="https://github.com/PigTinyLabs/Pig-cleaner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PigTinyLabs&repo=Pig-cleaner&theme=tokyonight&hide_border=true" alt="Pig Cleaner" />
+  <a href="https://github.com/PigTinyLabs/PigPort">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PigTinyLabs&repo=PigPort&theme=tokyonight&hide_border=true" alt="PigPort" />
   </a>
 </p>
 
@@ -94,11 +94,12 @@ A **Software Engineer** with **5+ years** of experience, focused on **backend de
 
 ---
 
-## 📫 Contact
+## 📫 Contact & Support
 
 <p align="left">
   <a href="mailto:tinyspirit99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/PigTinyLabs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://paypal.me/pigtiny" target="_blank"><img src="https://img.shields.io/badge/Donate%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Donate a Coffee" /></a>
 </p>
 
 ---
